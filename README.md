@@ -29,6 +29,6 @@ https://www.kaggle.com/c/fake-news/data?select=train.csv
 THANK YOU SO MUCH !
 
 TEAM DETECTIVES0011
-aashish111kaushik@gmail.com
+nijjusai1875@gmail.com
 
 
